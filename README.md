@@ -3,6 +3,12 @@ This repository contains a `jupyter notebook` which is capable of profiling data
 
 # Setup
 This project is using `python3`.
+
+To grab this repository:
+```sh
+git clone https://github.com/danielc92/python_nb_data_profiling.git
+```
+
 Install the following modules before getting started:
 - `pandas`
 - `numpy`
@@ -29,6 +35,6 @@ pip install pandas numpy seaborn matplotlib
 - Daniel Corcoran
 
 # Sources
-[Seaborn Palettes](https://seaborn.pydata.org/tutorial/color_palettes.html)
-[pandas website](https://pandas.pydata.org/)
-[seaborn website](https://seaborn.pydata.org/)
+1. [seaborn colour palettes](https://seaborn.pydata.org/tutorial/color_palettes.html)
+2. [pandas website](https://pandas.pydata.org/)
+3. [seaborn website](https://seaborn.pydata.org/)
