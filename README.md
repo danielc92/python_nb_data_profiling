@@ -14,12 +14,13 @@ Install the following modules before getting started:
 - `numpy`
 - `seaborn`
 - `matplotlib`
+- `jupyter`
 
 **note**: you should have general understanding of how to import data using pandas to use this notebook.
 
 # Installation
 ```sh
-pip install pandas numpy seaborn matplotlib
+pip install pandas numpy seaborn matplotlib jupyter
 ```
 
 # Usage
